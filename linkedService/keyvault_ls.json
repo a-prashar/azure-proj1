@@ -1,0 +1,11 @@
+{
+	"name": "keyvault_ls",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://kv-capstone-proj.vault.azure.net/"
+		}
+	}
+}

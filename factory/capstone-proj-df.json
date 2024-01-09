@@ -1,0 +1,9 @@
+{
+	"name": "capstone-proj-df",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0dbe6b68-aa12-46b1-8c65-f9d3d89d7b2e",
+		"tenantId": "6b26b650-3d85-46b5-aa01-b591db89a27f"
+	}
+}
